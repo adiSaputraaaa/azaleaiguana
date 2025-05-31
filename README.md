@@ -4,7 +4,7 @@
 👀 I’m interested in exploring cutting-edge tech, open-source projects, and creative coding.  
 🌱 I’m currently learning advanced web development, AI integration, and automation.  
 💞️ I’m looking to collaborate on innovative projects that make life easier and more fun, especially in Python, JavaScript, and AI.  
-📫 How to reach me: azaleaiguana@example.com (or DM me on GitHub)  
+📫 How to reach me: adi.fernandez25@gmail.com (or DM me on GitHub)  
 😄 Pronouns: they/them  
 ⚡ Fun fact: I once built a robot that can dance — and yes, it’s a bit quirky!
 
